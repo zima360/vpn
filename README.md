@@ -1,7 +1,7 @@
 # Здравствуй, дорогой друг!  
 Многие просят меня посоветовать хороший 🛡️ VPN / поделиться конфигом (учёткой). ❓  
   
-🌐 И я решил создать этот репозиторий, где буду публиковать проверенные на работоспособность из РФ конфиги VPN по протоколам совместимым с v2ray/sing_box/Xray (т.е. VLESS, VMESS, trojan, shadowsocks, shadowsocksr и прочие, и их расширения) 💯 бесплатно ❗  
+🌐 И я решил создать этот репозиторий, где буду публиковать проверенные на работоспособность из РФ конфиги VPN по протоколам совместимым с v2ray/sing_box/Xray/Throne/HAPP (т.е. VLESS, VMESS, trojan, shadowsocks, shadowsocksr и прочие, и их расширения) 💯 бесплатно ❗  
   
 👉 Хочу обратить внимание, что какие-то сервера (конфиги) будут нормально работать у одного провайдера, но могут не работать у другого. Так же все сервера (конфиги) имеют непрогнозируемый срок жизни.💤 
 
@@ -10,11 +10,15 @@
 Установить надо одну программу, это перечисление аналогов.  
   
 - 🤖 Android  
-  - v2rayNG - https://github.com/2dust/v2rayNG/releases  
-  - NekoBox - https://github.com/MatsuriDayo/NekoBoxForAndroid/releases  
+  - v2rayNG - https://github.com/2dust/v2rayNG/releases
+  - Throne - https://throneproj.github.io/ru/ , https://github.com/throneproj/ThroneForAndroid/releases
+  - NekoBox - https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+  - HAPP - https://play.google.com/store/apps/details?id=com.happproxy , https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk 
 
 - 💻 Windows and 🐧 Linux  
-  - v2rayN - https://github.com/2dust/v2rayN/releases  
+  - Throne - https://throneproj.github.io/ru/ , https://github.com/throneproj/Throne/releases
+  - v2rayN - https://github.com/2dust/v2rayN/releases
+  - HAPP - https://www.happ.su/main/ru , https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe
   - nekoray - https://github.com/MatsuriDayo/nekoray/releases (не обновляется с декабря 2024)  
 
 - 🍎 Mac and 📱 iOS  
