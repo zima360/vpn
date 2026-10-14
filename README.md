@@ -21,13 +21,14 @@
   - HAPP - https://www.happ.su/main/ru , https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe
   - nekoray - https://github.com/MatsuriDayo/nekoray/releases (не обновляется с декабря 2024)  
 
-- 🍎 Mac and 📱 iOS  
+- 🍎 Mac and 📱 iOS
+  - HAPP (на октябрь 2026 рекомендованное приложение) - https://apps.apple.com/us/app/happ-proxy-utility/id6504287215 или https://apps.apple.com/ru/app/happ-lite/id6799917773  
   - v2RayTun - https://apps.apple.com/ru/app/v2raytun/id6476628951  
   - streisand - https://apps.apple.com/ru/app/streisand/id6450534064  
   - foxray - https://apps.apple.com/ru/app/foxray/id6448898396  
   - shadowrocket - https://apps.apple.com/ru/app/shadowrocket/id932747118  
   - v2box - https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690
-  - HAPP (на октябрь 2026 рекомендованное приложение) - https://apps.apple.com/us/app/happ-proxy-utility/id6504287215 или https://apps.apple.com/ru/app/happ-lite/id6799917773  
+  
 
 
 ## Ссылки которые необходимо добавить в программу клиент
